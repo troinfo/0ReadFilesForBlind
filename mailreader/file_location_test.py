@@ -1,4 +1,4 @@
-# file_location_test.py - Find exactly where result files are being created
+# file_location_test.py - Find exactly where result files are being created - this seemed to have worked
 import os
 import sys
 import subprocess
